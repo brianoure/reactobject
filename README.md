@@ -1,2 +1,2 @@
 # reactobject
-Some python scriptsfor generating quick React code 
+Some python scripts for generating quick React code 
